@@ -1,2 +1,2 @@
 # Python-IA
-#  Cours 1
+## Rappel et exos
